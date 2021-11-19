@@ -4,8 +4,7 @@
 
 - **Balance Enquiry**
 
-  ![Balance](/Users/setukumar/Documents/WhiteHat Jr/python projects/Python ATM/Balance.png)
+  ![Balance](Balance.png)
+- **Money Withdrawal**
 
-  - **Money Withdrawal**
-
-    ![Withdrawl](/Users/setukumar/Documents/WhiteHat Jr/python projects/Python ATM/Withdrawl.png)
+    ![Withdrawl](Withdrawl.png)
